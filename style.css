@@ -1,0 +1,45 @@
+body
+{
+background: linear-gradient( #66ffff 0%, #66ff99 50%, #ffff66 100%);
+}
+.heading
+{
+    color:teal
+}
+.head
+{
+    width: 150px;
+    font-size: 25px;
+    border: 3px solid whitesmoke;
+    border-radius: 180px;
+}
+
+#number_of_objects , #status
+{
+font-size: 25px;
+}
+.copy_right_footer
+{
+    font-style: italic;
+    font-size: 17px;
+    position: fixed;
+    color: black ;
+    bottom: 0;
+    width: 100%;
+    background-color:#66ffff;
+    line-height: 3;
+    text-align:center;
+}
+#logo
+{
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin-left: 10px;
+}
+canvas
+{
+    border: 2px solid black;
+    margin-top: 120px;
+    border-radius: 30px;
+}
